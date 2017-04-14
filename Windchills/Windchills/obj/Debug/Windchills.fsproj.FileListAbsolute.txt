@@ -1,0 +1,10 @@
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\Windchills.exe.config
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\Windchills.XML
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\Windchills.exe
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\Windchills.pdb
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\FSharp.Core.dll
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\bin\Debug\FSharp.Core.xml
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\obj\Debug\Windchills.exe
+c:\users\joey\documents\visual studio 2015\Projects\Windchills\Windchills\obj\Debug\Windchills.pdb
+C:\Users\Joey\Documents\Visual Studio 2015\Projects\Windchills\Windchills\bin\Debug\nunit.framework.dll
+C:\Users\Joey\Documents\Visual Studio 2015\Projects\Windchills\Windchills\bin\Debug\nunit.framework.xml
